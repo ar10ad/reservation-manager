@@ -9,7 +9,11 @@ public class User {
     private String lastName;
     
     // optional field (only if users will require it)
+<<<<<<< HEAD
     
+=======
+    private String nickName;
+>>>>>>> master
     private int age;
     
     // field that says if the user owns a company that you can get reservations to
